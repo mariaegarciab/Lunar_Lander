@@ -1,3 +1,5 @@
+![image](https://github.com/mariaegarciab/Lunar_Lander/assets/138514984/b32b2327-f5aa-438a-a35f-11847a892c73)
+
 ## Project Overview
 
 This project involves training a Proximal Policy Optimization (PPO) model to solve the Lunar Lander environment from OpenAI Gym. The goal is to optimize the model's hyperparameters to achieve stable and efficient landings.
